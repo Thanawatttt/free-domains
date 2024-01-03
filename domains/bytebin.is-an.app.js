@@ -7,7 +7,7 @@ addSubDomain({
     repo: 'https://github.com/Thanawatttt/teledrive',
   },
   record: {
-    CNAME: 'tanawattawillha@hotmail.com'
+    CNAME: 'thanawattawilha.ddns.net'
   },
   proxy: false
 });
